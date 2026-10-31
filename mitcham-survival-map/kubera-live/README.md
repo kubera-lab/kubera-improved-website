@@ -17,8 +17,8 @@ The current Mitcham/Merton prototype already has a mobile-first PWA, Leaflet map
 Related Kubera work to reuse rather than rewrite:
 
 - `mitcham-survival-map/` — mobile PWA, map, place cards, geolocation, source/verification UI.
-- `jobkubera-lab/mock-hsds-api` — existing HSDS mock-service API work for human/community services.
-- `jobkubera-lab/kubera-local-ai` — agent runtime and Evidence Ledger concepts for auditable AI/tool outputs.
+- `kubera-lab/mock-hsds-api` — existing HSDS mock-service API work for human/community services.
+- `kubera-lab/kubera-local-ai` — agent runtime and Evidence Ledger concepts for auditable AI/tool outputs.
 
 ## Three proven patterns to borrow — not copy
 

@@ -17,7 +17,7 @@ Public prototype repository for KUBERA web experiments, civic/local-intelligence
 
 The main public engineering profile is:
 
-https://github.com/jobkubera-lab/jobkubera-lab
+https://github.com/kubera-lab/kubera-lab
 
 ## Architecture principle
 

@@ -723,7 +723,7 @@ window.PARK_INTELLIGENCE = {
           "note": "Not stated on the official source page checked on 2026-08-16. Not confirmed on site."
         },
         "coordinateStatus": "VERIFIED_ON_SITE",
-        "coordinateSource": "https://github.com/jobkubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
+        "coordinateSource": "https://github.com/kubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
         "coordinateConfidence": "high",
         "coordinateNote": "Coordinate carried over from Nikola's own already-published, hand-verified Mitcham Survival Map dataset.",
         "toilets": {
@@ -1113,7 +1113,7 @@ window.PARK_INTELLIGENCE = {
           "confidence": "high"
         },
         "coordinateStatus": "VERIFIED_ON_SITE",
-        "coordinateSource": "https://github.com/jobkubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
+        "coordinateSource": "https://github.com/kubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
         "coordinateConfidence": "high",
         "toilets": {
           "value": null,
@@ -1236,7 +1236,7 @@ window.PARK_INTELLIGENCE = {
           "confidence": "high"
         },
         "coordinateStatus": "VERIFIED_ON_SITE",
-        "coordinateSource": "https://github.com/jobkubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
+        "coordinateSource": "https://github.com/kubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
         "coordinateConfidence": "high",
         "toilets": {
           "value": null,
@@ -1475,7 +1475,7 @@ window.PARK_INTELLIGENCE = {
           "confidence": "high"
         },
         "coordinateStatus": "VERIFIED_ON_SITE",
-        "coordinateSource": "https://github.com/jobkubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
+        "coordinateSource": "https://github.com/kubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
         "coordinateConfidence": "high",
         "dogRules": {
           "value": "Has a dedicated dog run area",
@@ -1819,7 +1819,7 @@ window.PARK_INTELLIGENCE = {
           "confidence": "high"
         },
         "coordinateStatus": "VERIFIED_ON_SITE",
-        "coordinateSource": "https://github.com/jobkubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
+        "coordinateSource": "https://github.com/kubera-lab/kubera-improved-website/tree/main/mitcham-survival-map",
         "coordinateConfidence": "high",
         "toilets": {
           "value": null,
